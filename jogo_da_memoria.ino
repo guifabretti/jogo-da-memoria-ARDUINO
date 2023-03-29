@@ -1,6 +1,3 @@
-//B1T A B1T
-//www.youtube.com.br/bitabit
-
 int numAtualSorteado = 0;
 int numSorteados[20];
 
